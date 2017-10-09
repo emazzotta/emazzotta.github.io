@@ -5,7 +5,7 @@ title: Artificial Intelligence Assignment 1
 
 ## Types of A.I. Thinking
 
-There are many ways of how a superintelligence can spring into existence as shown with the test-taking-kid analogy in the blog article[[^1]], in which author explains that we might try to write an A.I. fit for taking such a test, or we could make the test take itself. The difference is that some ways of thinking revolve around making A.I.s that help and guide us through our day, whereas another way of thinking is about creating A.I.s that would do everything by themselves and render us obsolete.
+There are many ways of how a superintelligence can spring into existence as shown with the test-taking-kid analogy in the blog article[^1], in which author explains that we might try to write an A.I. fit for taking such a test, or we could make the test take itself. The difference is that some ways of thinking revolve around making A.I.s that help and guide us through our day, whereas another way of thinking is about creating A.I.s that would do everything by themselves and render us obsolete.
 
 ## Simulate the Brain?
 
@@ -25,6 +25,6 @@ whereby smart nanobots in your intestines filter bad food and stop the accumulat
 
 ## My View on A.I.:
 
-Since Elon Musk is an idol for me I've always wondered why he is so cautios about A.I., in fact he once called it 'summoning the demon'. After reading the 'Wait but Why?' article on A.I.[[^1]] I am aware of a lot of possible dangers, however with our current technology it's still not possible to render a person immortal and thus we need to die anyway. Why not take the chance and speed up the development of A.I.? We'll all die eventually, won't we?
+Since Elon Musk is an idol for me I've always wondered why he is so cautios about A.I., in fact he once called it 'summoning the demon'. After reading the 'Wait but Why?' article on A.I.[^1] I am aware of a lot of possible dangers, however with our current technology it's still not possible to render a person immortal and thus we need to die anyway. Why not take the chance and speed up the development of A.I.? We'll all die eventually, won't we?
 
 [^1]: https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
