@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Artificial Intelligence Assignment Introduction
-tags: zhaw, ai, course, lecture, semester
+tags: zhaw ai course lecture semester
 ---
 
 ## Types of A.I. Thinking

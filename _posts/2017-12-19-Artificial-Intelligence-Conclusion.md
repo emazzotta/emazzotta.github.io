@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Artificial Intelligence Assignment Conclusion 
-tags: zhaw, ai, course, lecture, semester
+tags: zhaw ai course lecture semester
 ---
 
 ## Introduction
