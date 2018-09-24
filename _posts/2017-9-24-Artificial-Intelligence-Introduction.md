@@ -4,9 +4,13 @@ title: Artificial Intelligence Assignment Introduction
 tags: zhaw ai course lecture semester
 ---
 
+## AI Course Article
+
+At ZHAW I'm taking a class on artificial intelligence. This blog post is part of the course and mainly discusses the waitbutwhy article which constitutes a mandatory reading for the course.
+
 ## Types of A.I. Thinking
 
-There are many ways of how a superintelligence can spring into existence as shown with the test-taking-kid analogy in the blog article[^1], in which author explains that we might try to write an A.I. fit for taking such a test, or we could make the test take itself. The difference is that some ways of thinking revolve around making A.I.s that help and guide us through our day, whereas another way of thinking is about creating A.I.s that would do everything by themselves and render us obsolete.
+There are many ways of how a superintelligence can spring into existence as shown with the test-taking-kid analogy in the blog article[^1], in which the author explains that we might try to write an A.I. fit for taking such a test, or we could make the test take itself. The difference is that some ways of thinking revolve around making A.I.s that help and guide us through our day, whereas another way of thinking is about creating A.I.s that would do everything by themselves and render us obsolete.
 
 ## Simulate the Brain?
 
