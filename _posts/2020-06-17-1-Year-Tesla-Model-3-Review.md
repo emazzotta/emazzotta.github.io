@@ -29,7 +29,7 @@ Those charging stops were also used as bathroom and breakfast/lunch/dinner break
 
 Due the fact that we used a referral code (thanks @NYKChannel) granting us 6 months of free supercharging the trip did not cost us anything in terms of electricity.
 
-Speaking of electricity, 1300 kWh were added to our battery just via regenerative breaking. Coincidentally, this is the amount of electricity our household (my brother and I) uses in a year! The fact that this causes a longer lifetime for the breaks is also quite nice.
+Speaking of electricity, 1300 kWh were added to the battery just via regenerative breaking. Coincidentally, this is the amount of electricity our household (my brother and I) uses in a year! The fact that this causes a longer lifetime for the breaks is also quite nice.
 
 So what about charging without the Supercharging network? Unfortunately I can't charge at home, however, there's a charging station 500 meters from my home which I basically never use. Why? Because I already charge at various destinations.
 
@@ -39,7 +39,7 @@ E.g. when I go #bouldering, there's a charging station in a garage close-by. Whe
 
 Of course this is only possible, where there are available charging stations. I used to shop more at @coop_ch than @migros. This has changed since owning a Tesla because @migros is clearly welcoming the electric future by offering quite a few charging stations.
 
-The fact that electricity is cheap is convenient. Using @EnBW's card, I pay 0.3€/kWh which amounts to CHF 23.50 per full charge (500 km range). But most of the time I use free charging, such as the one provided by @StadtwerkWin  which offers electricity generated via 🌞
+The fact that electricity is cheap is convenient. Using @EnBW's card, I pay 0.3€/kWh which amounts to CHF 23.50 per full charge (500 km range). But most of the time I use free charging, such as the one provided by @StadtwerkWin which offers electricity generated via 🌞
 
 Sometimes I do what I refer to as "car-office". The Tesla is comfortable and it has an impressive audio system which is amazing when watching YouTube or Netflix via the car's own 15" screen, so I'm inclined to spend time in the car while charging.
 
