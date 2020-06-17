@@ -19,9 +19,11 @@ What about long distance trips? This car works as a daily driver just as well as
 More Superchargers are constructed on a monthly basis.
 
 I've driven:
+
 * Zurich - Vienna - Zurich
 * Zurich - Calabria - Zurich (~3000 km total)
-without any issues. (7/13)
+
+without any issues. 
 
 The road-trip to Calabria took us 19 hours (my brother and I weren't in a rush and spent over an hour in a restaurant despite the car having reached 100% state of charge for a while). We stopped 7 times for charging sessions of ~15-20 mins each.
 
@@ -74,5 +76,4 @@ Thank you for accelerating the world's transition to sustainable energy! ☀️�
 
 
 Bonus: The frunk even fits a Swiss Army rifle!
-
-Bonus: Cats seem to like the Tesla too. (25/25)
+Bonus: Cats seem to like the Tesla too. 
