@@ -7,7 +7,7 @@ tags: tesla model-3 car electric battery EV elon-musk review experience
 
 Today one year ago, I took delivery of my @Tesla #Model3. Here's what I've experienced during that year and in over 23'500 km.
 
-![Tesla Delivery](/blog/assets/images/tesla/delivery.jpg)
+![Tesla Delivery](/blog/assets/images/tesla/delivery.jpeg)
 
 First off: this thing is a blast to drive. I got the performance model with >500 HP and a 0-100 km/h acceleration of 3.4 seconds. To this day I can't hide the "Tesla grin" when accelerating.
 
@@ -27,6 +27,8 @@ I've driven:
 * Zurich - Calabria - Zurich (~3000 km total)
 
 without any issues. 
+
+![Supercharging in Italy](/blog/assets/images/tesla/italy-suc.jpeg)
 
 The road-trip to Calabria took us 19 hours (my brother and I weren't in a rush and spent over an hour in a restaurant despite the car having reached 100% state of charge for a while). We stopped 7 times for charging sessions of ~15-20 mins each.
 
@@ -48,6 +50,9 @@ The fact that electricity is cheap is convenient. Using @EnBW's card, I pay 0.3�
 
 Sometimes I do what I refer to as "car-office". The Tesla is comfortable and it has an impressive audio system which is amazing when watching YouTube or Netflix via the car's own 15" screen, so I'm inclined to spend time in the car while charging.
 
+![Car Office](/blog/assets/images/tesla/car-office.jpeg)
+
+
 The audio is comparable to a cinema imho. Sometimes I review the dash cam or sentry footage which the car records while driving or while being parked and someone getting too close to it.
 
 Thanks to this feature I caught someone bumping into the front of my car while it was parked and she was reversing out of the parking spot. The license plate is visible and perfectly readable. Aside from that I have 20GB of footage of curious people checking out the car.
@@ -56,7 +61,14 @@ YouTube, Netflix, Sentry Mode, games etc. are features provided by Tesla via fre
 
 As a software engineer, I love playing with Tesla's APIs and data. The API shows data about the car's status and location and with an OBD2 dongle I have a vast amount of live data (e.g. current torque of each motor, battery cell temperatures and voltages etc.)
 
+![OBD2 Dongle](/blog/assets/images/tesla/dongle.jpeg)
+![Scan My Tesla App](/blog/assets/images/tesla/scan-my-tesla.jpeg)
+![Tesla API](/blog/assets/images/tesla/api-vehicle.jpeg)
+![Grafana Dashboard](/blog/assets/images/tesla/grafana-dashboard.jpeg)
+
 Recently the rear window got chipped (looks like there was an impact there but I can't tell what caused it). There are lots of stories about waiting for spare parts from Tesla taking weeks to months.
+
+![Chipped Rear Window](/blog/assets/images/tesla/chipped-glass.jpeg)
 
 I informed @diemobiliar about the damage and they referred me to Desa Autoglass. Apparently the rear window was available in a few days (< a week). I was able to bring
 my car to Desa Autoglass and they replaced the huge rear window in ~2 hours.
@@ -76,7 +88,8 @@ Thank you @elonmusk and @Tesla team for such an enjoyable, incredible, amazing a
 
 Thank you for accelerating the world's transition to sustainable energy! ☀️🔋🚗🌱
 
-
-
 Bonus: The frunk even fits a Swiss Army rifle!
 Bonus: Cats seem to like the Tesla too. 
+
+![Rifle in Frunk](/blog/assets/images/tesla/rifle.jpeg)
+![Cat on Tesla](/blog/assets/images/tesla/cat.jpeg)
