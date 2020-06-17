@@ -1,10 +1,13 @@
 ---
+
 layout: single
 title: 1 Year Tesla Model 3 Review
-tags: tesla 'model 3' car electric battery EV 'elon musk' review experience
+tags: tesla model-3 car electric battery EV elon-musk review experience
 ---
 
 Today one year ago, I took delivery of my @Tesla #Model3. Here's what I've experienced during that year and in over 23'500 km.
+
+![Tesla Delivery](/assets/images/tesla/delivery.jpg)
 
 First off: this thing is a blast to drive. I got the performance model with >500 HP and a 0-100 km/h acceleration of 3.4 seconds. To this day I can't hide the "Tesla grin" when accelerating.
 
