@@ -63,7 +63,7 @@ naver-site-verification  :
 twitter:
   username               : emazzotta
 facebook:
-  username               : emazzotta
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -78,7 +78,7 @@ social:
 analytics:
   provider               : "google"
   google:
-    tracking_id          : "UA-28740874-2"
+    tracking_id          : "UA-28740874-1"
 
 
 # Site Author
@@ -93,10 +93,10 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "emazzotta"
+  facebook         :
   foursquare       :
   github           : "emazzotta"
-  gitlab           : "emazzotta"
+  gitlab           :
   google_plus      :
   keybase          : "emazzotta"
   instagram        : "emazzotta_"
