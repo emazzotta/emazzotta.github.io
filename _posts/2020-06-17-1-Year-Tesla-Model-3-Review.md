@@ -5,7 +5,7 @@ title: 1 Year Tesla Model 3 Review
 tags: tesla model-3 car electric battery EV elon-musk review experience
 ---
 
-Today one year ago, I took delivery of my @Tesla #Model3. Here's what I've experienced during that year and in over 23'500 km.
+Today one year ago, I took delivery of my [@Tesla](https://twitter.com/Tesla) Model 3. Here's what I've experienced during that year and in over 23'500 km.
 
 ![Tesla Delivery](/blog/assets/images/tesla/delivery.jpeg)
 
@@ -34,19 +34,19 @@ The road-trip to Calabria took us 19 hours (my brother and I weren't in a rush a
 
 Those charging stops were also used as bathroom and breakfast/lunch/dinner breaks. Therefore our 19h trip consisted of over 16h of driving and about 2 hours of (productive) charging. We arrived refreshed at our destination since Autopilot did about 99% of the driving.
 
-Due the fact that we used a referral code (thanks @NYKChannel) granting us 6 months of free supercharging the trip did not cost us anything in terms of electricity.
+Due the fact that we used a referral code (thanks [@NYKChannel](https://twitter.com/NYKChannel)) granting us 6 months of free supercharging the trip did not cost us anything in terms of electricity.
 
 Speaking of electricity, 1300 kWh were added to the battery just via regenerative breaking. Coincidentally, this is the amount of electricity our household (my brother and I) uses in a year! The fact that this causes a longer lifetime for the breaks is also quite nice.
 
 So what about charging without the Supercharging network? Unfortunately I can't charge at home, however, there's a charging station 500 meters from my home which I basically never use. Why? Because I already charge at various destinations.
 
-E.g. when I go #bouldering, there's a charging station in a garage close-by. When I do @Freeletics with friends in #Zurich, there's a charging station near-by, when I go indoor skydiving at @Windwerk_Winti there are free charging stations provided by them.
+E.g. when I go bouldering, there's a charging station in a garage close-by. When I do [@Freeletics](https://twitter.com/Freeletics) with friends in Zurich, there's a charging station near-by, when I go indoor skydiving at [@Windwerk_Winti](https://twitter.com/Windwerk_Winti) there are free charging stations provided by them.
 
-~100 meters in either direction from @Windwerk_Winti there's a free charging station by LIDL and a free charging station by @MercedesBenz. Also: I spend less time actively charging (i.e. plugging in), than I used to spend filling up my gasoline car during daily use.
+~100 meters in either direction from [@Windwerk_Winti](https://twitter.com/Windwerk_Winti) there's a free charging station by LIDL and a free charging station by [@MercedesBenz](https://twitter.com/MercedesBenz). Also: I spend less time actively charging (i.e. plugging in), than I used to spend filling up my gasoline car during daily use.
 
-Of course this is only possible, where there are available charging stations. I used to shop more at @coop_ch than @migros. This has changed since owning a Tesla because @migros is clearly welcoming the electric future by offering quite a few charging stations.
+Of course this is only possible, where there are available charging stations. I used to shop more at [@coop_ch](https://twitter.com/coop_ch) than [@migros](https://twitter.com/migros). This has changed since owning a Tesla because [@migros](https://twitter.com/migros) is clearly welcoming the electric future by offering quite a few charging stations.
 
-The fact that electricity is cheap is convenient. Using @EnBW's card, I pay 0.3€/kWh which amounts to CHF 23.50 per full charge (500 km range). But most of the time I use free charging, such as the one provided by @StadtwerkWin which offers electricity generated via 🌞
+The fact that electricity is cheap is convenient. Using [@EnBW's](https://twitter.com/EnBW) card, I pay 0.3€/kWh which amounts to CHF 23.50 per full charge (500 km range). But most of the time I use free charging, such as the one provided by [@StadtwerkWin](https://twitter.com/StadtwerkWin) which offers electricity generated via 🌞
 
 Sometimes I do what I refer to as "car-office". The Tesla is comfortable and it has an impressive audio system which is amazing when watching YouTube or Netflix via the car's own 15" screen, so I'm inclined to spend time in the car while charging.
 
@@ -57,7 +57,7 @@ The audio is comparable to a cinema imho. Sometimes I review the dash cam or sen
 
 Thanks to this feature I caught someone bumping into the front of my car while it was parked and she was reversing out of the parking spot. The license plate is visible and perfectly readable. Aside from that I have 20GB of footage of curious people checking out the car.
 
-YouTube, Netflix, Sentry Mode, games etc. are features provided by Tesla via free OTA updates. That's another thing making a Tesla a blast to own. I get around 2 updates/month providing new features, games, power (e.g. +20 HP) or improvements suggested to @elonmusk etc.
+YouTube, Netflix, Sentry Mode, games etc. are features provided by Tesla via free OTA updates. That's another thing making a Tesla a blast to own. I get around 2 updates/month providing new features, games, power (e.g. +20 HP) or improvements suggested to [@elonmusk](https://twitter.com/elonmusk) etc.
 
 As a software engineer, I love playing with Tesla's APIs and data. The API shows data about the car's status and location and with an OBD2 dongle I have a vast amount of live data (e.g. current torque of each motor, battery cell temperatures and voltages etc.)
 
@@ -70,10 +70,10 @@ Recently the rear window got chipped (looks like there was an impact there but I
 
 ![Chipped Rear Window](/blog/assets/images/tesla/chipped-glass.jpeg)
 
-I informed @diemobiliar about the damage and they referred me to Desa Autoglass. Apparently the rear window was available in a few days (< a week). I was able to bring
+I informed [@diemobiliar](https://twitter.com/diemobiliar) about the damage and they referred me to Desa Autoglass. Apparently the rear window was available in a few days (< a week). I was able to bring
 my car to Desa Autoglass and they replaced the huge rear window in ~2 hours.
 
-Everything worked flawlessly, @Tesla quickly had the part available and @diemobiliar quickly referred me to Desa Autoglass in Winterthur which did a great job. I didn't have to pay anything but was surprised to learn the rear glass cost less than 500.-.
+Everything worked flawlessly, [@Tesla](https://twitter.com/Tesla) quickly had the part available and [@diemobiliar](https://twitter.com/diemobiliar) quickly referred me to Desa Autoglass in Winterthur which did a great job. I didn't have to pay anything but was surprised to learn the rear glass cost less than 500.-.
 
 So, what are the actual disadvantages with a Tesla? The only negative experience I had with Tesla was the delivery experience & customer support. The delivery process a year ago was pure chaos, I was informed that my delivery should take place in March.
 
@@ -83,13 +83,12 @@ When I had an issue logging in neither the service center nor delivery center wa
 
 In order not to end on a negative note, I'd like to stress that the positives far outweigh the negatives and I would definitely buy a Model 3 again, even if it meant the chaos during the delivery process would repeat itself (which they seem to have fixed by now).
 
-
-Thank you @elonmusk and @Tesla team for such an enjoyable, incredible, amazing and fun car. I will never be able to go back to an #ICE car.
+Thank you [@elonmusk](https://twitter.com/elonmusk) and [@Tesla](https://twitter.com/Tesla) team for such an enjoyable, incredible, amazing and fun car. I will never be able to go back to an ICE car.
 
 Thank you for accelerating the world's transition to sustainable energy! ☀️🔋🚗🌱
 
 Bonus: The frunk even fits a Swiss Army rifle!
-Bonus: Cats seem to like the Tesla too. 
-
 ![Rifle in Frunk](/blog/assets/images/tesla/rifle.jpeg)
+
+Bonus: Cats seem to like the Tesla too. 
 ![Cat on Tesla](/blog/assets/images/tesla/cat.jpeg)
