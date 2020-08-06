@@ -79,7 +79,7 @@ So, what are the actual disadvantages with a Tesla? The only negative experience
 
 March passed and I did not receive any further info. No communication whatsoever, Tesla was just silent. Ended up going to the delivery center 3 times and finally got a loaner Tesla Model S until the Model 3 was ready for pickup in June 2019.
 
-When I had an issue logging in neither the service center nor delivery center was able to help. Had to send an email to Tesla, but was never answered after months of follow-up. Finally someone in the delivery center wrote an email to the same email address and got an answer.
+When I had an issue logging into my account neither the service center nor delivery center was able to help. Had to send an email to Tesla, but was never answered after months of follow-up. Finally someone in the delivery center wrote an email to the same email address and got an answer.
 
 In order not to end on a negative note, I'd like to stress that the positives far outweigh the negatives and I would definitely buy a Model 3 again, even if it meant the chaos during the delivery process would repeat itself (which they seem to have fixed by now).
 
