@@ -32,7 +32,7 @@ without any issues.
 
 The road-trip to Calabria took us 19 hours (my brother and I weren't in a rush and spent over an hour in a restaurant despite the car having reached 100% state of charge for a while). We stopped 7 times for charging sessions of ~15-20 mins each.
 
-Those charging stops were also used as bathroom and breakfast/lunch/dinner breaks. Therefore our 19h trip consisted of over 16h of driving and about 2 hours of (productive) charging + 1 hour spent in a restaurant (where the car patiently waited for us as it was fully charged). We arrived refreshed at our destination since Autopilot did about 99% of the driving.
+Those charging stops were also used as bathroom and breakfast/lunch/dinner breaks. Therefore our 19h trip consisted of over 16h of driving and about 2 hours of (productive) charging + 1 hour spent in a restaurant (where the car patiently waited for us, fully charged). We arrived refreshed at our destination since Autopilot did about 99% of the driving.
 
 Due the fact that we used a referral code (thanks [@NYKChannel](https://twitter.com/NYKChannel)) granting us 6 months of free supercharging the trip did not cost us anything in terms of electricity.
 
