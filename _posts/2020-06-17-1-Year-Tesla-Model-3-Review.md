@@ -57,7 +57,7 @@ The audio is comparable to a cinema imho. Sometimes I review the dash cam or sen
 
 Thanks to this feature I caught someone bumping into the front of my car while it was parked and she was reversing out of the parking spot. The license plate is visible and perfectly readable. Aside from that I have 20GB of footage of curious people checking out the car.
 
-YouTube, Netflix, Sentry Mode, games etc. are features provided by Tesla via free OTA updates. That's another thing making a Tesla a blast to own. I get around 2 updates/month providing new features, games, power (e.g. +20 HP) or improvements suggested to [@elonmusk](https://twitter.com/elonmusk) etc.
+YouTube, Netflix, Sentry Mode, games etc. are features provided by Tesla via free over-the-air updates. That's another thing making a Tesla a blast to own. I get around 2 updates/month providing new features, games, power (e.g. +20 HP) or improvements suggested to [@elonmusk](https://twitter.com/elonmusk) etc.
 
 As a software engineer, I love playing with Tesla's APIs and data. The API shows data about the car's status and location and with an OBD2 dongle I have a vast amount of live data (e.g. current torque of each motor, battery cell temperatures and voltages etc.)
 
@@ -83,7 +83,7 @@ When I had an issue logging into my account neither the service center nor deliv
 
 In order not to end on a negative note, I'd like to stress that the positives far outweigh the negatives and I would definitely buy a Model 3 again, even if it meant the chaos during the delivery process would repeat itself (which they seem to have fixed by now).
 
-Thank you [@elonmusk](https://twitter.com/elonmusk) and [@Tesla](https://twitter.com/Tesla) team for such an enjoyable, incredible, amazing and fun car. I will never be able to go back to an ICE car.
+Thank you [@elonmusk](https://twitter.com/elonmusk) and [@Tesla](https://twitter.com/Tesla) team for such an enjoyable, incredible, amazing and fun car. I will never be able to go back to an internal combustion engine car.
 
 Thank you for accelerating the world's transition to sustainable energy! ☀️🔋🚗🌱
 
