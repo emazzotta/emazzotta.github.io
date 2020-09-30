@@ -36,7 +36,7 @@ Those charging stops were also used as bathroom and breakfast/lunch/dinner break
 
 Due the fact that we used a referral code (thanks [@NYKChannel](https://twitter.com/NYKChannel)) granting us 6 months of free supercharging the trip did not cost us anything in terms of electricity.
 
-Speaking of electricity, 1300 kWh were added to the battery during this year just via regenerative breaking. Coincidentally, this is the amount of electricity our household (my brother and I) uses in a year! The fact that this causes a longer lifetime for the breaks is also quite nice.
+Speaking of electricity, 1300 kWh were added to the battery during this year just via regenerative braking. Coincidentally, this is the amount of electricity our household (my brother and I) uses in a year! The fact that this causes a longer lifetime for the brakes is also quite nice.
 
 So what about charging without the Supercharging network? Unfortunately I can't charge at home, however, there's a charging station 500 meters from my home which I basically never use. Why? Because I already charge at various destinations.
 
