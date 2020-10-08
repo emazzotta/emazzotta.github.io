@@ -5,7 +5,7 @@ title: 1 Year Tesla Model 3 Review
 tags: tesla model-3 car electric battery EV elon-musk review experience
 ---
 
-Today one year ago, I took delivery of my [@Tesla](https://twitter.com/Tesla) Model 3. Here's what I've experienced during that year and in over 23'500 km.
+Today one year ago, I took delivery of my [@Tesla](https://twitter.com/Tesla) Model 3. Here's what I've experienced during that year and in over 23'500 km (14,600 miles).
 
 ![Tesla Delivery](/blog/assets/images/tesla/delivery.jpeg)
 
