@@ -46,14 +46,14 @@ E.g. when I go bouldering, there's a charging station in a garage close-by. When
 
 Of course this is only possible, where there are available charging stations. I used to shop more at [@coop_ch](https://twitter.com/coop_ch) than [@migros](https://twitter.com/migros). This has changed since owning a Tesla because [@migros](https://twitter.com/migros) is clearly welcoming the electric future by offering quite a few charging stations.
 
-The fact that electricity is cheap is convenient. Using [@EnBW's](https://twitter.com/EnBW) card, I pay 0.3€/kWh which amounts to CHF 23.50 per full charge (500 km range). But most of the time I use free charging, such as the one provided by [@StadtwerkWin](https://twitter.com/StadtwerkWin) which offers electricity generated via 🌞
+The fact that electricity is cheap is convenient. Using [@EnBW's](https://twitter.com/EnBW) card, I pay 0.28€/kWh which amounts to about 22€ (~26$) per full charge (500 km / 310 miles range). But most of the time I use free charging options, such as the one provided by [@StadtwerkWin](https://twitter.com/StadtwerkWin) which offers electricity generated via solar 🌞.
 
 Sometimes I do what I refer to as "car-office". The Tesla is comfortable and it has an impressive audio system which is amazing when watching YouTube or Netflix via the car's own 15" screen, so I'm inclined to spend time in the car while charging.
 
 ![Car Office](/blog/assets/images/tesla/car-office.jpeg)
 
 
-The audio is comparable to a cinema imho. Sometimes I review the dash cam or sentry footage which the car records while driving or while being parked and someone getting too close to it.
+The audio is comparable to a cinema imho. Sometimes I review the dash cam or sentry footage which the car records while driving or while being parked and someone getting too close to the car.
 
 Thanks to this feature I caught someone bumping into the front of my car while it was parked and she was reversing out of the parking spot. The license plate is visible and perfectly readable. Aside from that I have 20GB of footage of curious people checking out the car.
 
@@ -79,7 +79,7 @@ So, what are the actual disadvantages with a Tesla? The only negative experience
 
 March passed and I did not receive any further info. No communication whatsoever, Tesla was just silent. Ended up going to the delivery center 3 times and finally got a loaner Tesla Model S until the Model 3 was ready for pickup in June 2019.
 
-When I had an issue logging into my account neither the service center nor delivery center was able to help. Had to send an email to Tesla, but was never answered after months of follow-up. Finally someone in the delivery center wrote an email to the same email address and got an answer.
+When I had an issue logging into my account neither the service center nor delivery center were able to help. Had to send an email to Tesla, but was never answered after months of follow-up. Finally someone in the delivery center wrote an email to the same email address and got an answer.
 
 In order not to end on a negative note, I'd like to stress that the positives far outweigh the negatives and I would definitely buy a Model 3 again, even if it meant the chaos during the delivery process would repeat itself (which they seem to have fixed by now).
 
