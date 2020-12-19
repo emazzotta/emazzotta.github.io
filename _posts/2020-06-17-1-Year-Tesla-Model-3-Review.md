@@ -42,11 +42,9 @@ So what about charging without the Supercharging network? Unfortunately I can't 
 
 E.g. when I go bouldering, there's a charging station in a garage close-by. When I do [@Freeletics](https://twitter.com/Freeletics) with friends in Zurich, there's a charging station near-by, when I go indoor skydiving at [@Windwerk_Winti](https://twitter.com/Windwerk_Winti) there are free charging stations provided by them.
 
-~100 meters in either direction from [@Windwerk_Winti](https://twitter.com/Windwerk_Winti) there's a free charging station by LIDL and a free charging station by [@MercedesBenz](https://twitter.com/MercedesBenz). Also: I spend less time actively charging (i.e. plugging in), than I used to spend filling up my gasoline car during daily use.
+~100 meters in either direction from [@Windwerk_Winti](https://twitter.com/Windwerk_Winti) there are two more free charging stations. Also, I spend less time actively charging (i.e. plugging in), than I used to spend filling up my gasoline car during daily use.
 
-Of course this is only possible, where there are available charging stations. I used to shop more at [@coop_ch](https://twitter.com/coop_ch) than [@migros](https://twitter.com/migros). This has changed since owning a Tesla because [@migros](https://twitter.com/migros) is clearly welcoming the electric future by offering quite a few charging stations.
-
-The fact that electricity is cheap is convenient. Using [@EnBW's](https://twitter.com/EnBW) card, I pay 0.28€/kWh which amounts to about 22€ (~26$) per full charge (500 km / 310 miles range). But most of the time I use free charging options, such as the one provided by [@StadtwerkWin](https://twitter.com/StadtwerkWin) which offers electricity generated via solar 🌞.
+The fact that electricity is cheap is convenient. Using [@EnBW's](https://twitter.com/EnBW) card, I pay 0.28€/kWh which amounts to about 22€ (~26$) per full charge (480 km / 300 miles range). But most of the time I use free charging options, such as the one provided by [@StadtwerkWin](https://twitter.com/StadtwerkWin) which offers electricity generated via solar 🌞.
 
 Sometimes I do what I refer to as "car-office". The Tesla is comfortable and it has an impressive audio system which is amazing when watching YouTube or Netflix via the car's own 15" screen, so I'm inclined to spend time in the car while charging.
 
