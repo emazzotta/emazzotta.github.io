@@ -68,7 +68,7 @@ Recently the rear window got chipped (looks like there was an impact there but I
 
 ![Chipped Rear Window](/blog/assets/images/tesla/chipped-glass.jpeg)
 
-I informed [@diemobiliar](https://twitter.com/diemobiliar) about the damage and they referred me to Desa Autoglass. Apparently the rear window was available in a few days (< a week). I was able to bring
+I informed [@diemobiliar](https://twitter.com/diemobiliar) about the damage and they referred me to Desa Autoglass. Apparently the rear window was available in a few days (less than a week). I was able to bring
 my car to Desa Autoglass and they replaced the huge rear window in ~2 hours.
 
 Everything worked flawlessly, [@Tesla](https://twitter.com/Tesla) quickly had the part available and [@diemobiliar](https://twitter.com/diemobiliar) quickly referred me to Desa Autoglass in Winterthur which did a great job. I didn't have to pay anything but was surprised to learn the rear glass cost less than 500.-.
