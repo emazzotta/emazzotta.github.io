@@ -15,7 +15,7 @@ Sometimes I open the rear camera while at a stop just to see how small the car b
 
 Unsurprisingly this is one of the first things I demonstrate to people sitting in a Tesla for the first time. The reactions are always one of the two comments: "Holy shit this feels like an airplane taking off" or "Holy shit this feels like the Blue Fire Megacoaster".
 
-Another feature I love to demonstrate is summoning the car which is especially useful in my garage since it has a tight parking spot; wide enough for the car but not wide enough to easily get in/out of the car. The Tesla gets out/parks into the spot on its own daily.
+Another feature I love to demonstrate is summoning the car which is especially useful in my garage since it has a tight parking spot; wide enough for the car but not wide enough to easily get in/out of the car without doing some involuntary yoga exercises. The Tesla gets out/parks into the spot on its own daily.
 
 What about long distance trips? This car works as a daily driver just as well as for road-tripping. I'm surprised some people still aren't aware that Tesla has a vast Supercharging network allowing for quickly topping up one's car. See [here](https://www.tesla.com/de_CH/findus?search=store%2Cservice%2Csupercharger%2Cdestination%20charger&bounds=48.93381113206293%2C15.806705115234392%2C42.65470457454763%2C-0.013607384765608188&zoom=7&filters=supercharger). 
 
