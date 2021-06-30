@@ -48,7 +48,8 @@ The fact that electricity is cheap is convenient. Using [@EnBW's](https://twitte
 
 Sometimes I do what I refer to as "car-office". The Tesla is comfortable and it has an impressive audio system which is amazing when watching YouTube or Netflix via the car's own 15" screen, so I'm inclined to spend time in the car while charging.
 
-![Car Office](/blog/assets/images/tesla/car-office.jpeg)
+![Car Office 1](/blog/assets/images/tesla/car-office-1.jpeg)
+![Car Office 2](/blog/assets/images/tesla/car-office-2.jpeg)
 
 
 The audio is comparable to a cinema imho. Sometimes I review the dash cam or sentry footage which the car records while driving or while being parked and someone getting too close to the car.
