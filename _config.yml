@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Emanuele Mazzotta"
-  avatar           : "https://pbs.twimg.com/profile_images/780008724777803776/XV0eggQp_400x400.jpg"
+  avatar           : "/blog/assets/images/profile_picture.jpg"
   bio              : "Software Engineer"
   location         : "Zurich, CH"
   email            : "hello@mazzotta.me"
