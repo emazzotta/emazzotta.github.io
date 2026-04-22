@@ -13,8 +13,8 @@ title                    : "Emanuele's Blog"
 title_separator          : "-"
 name                     : "Emanuele Mazzotta"
 description              : "Software Engineer from Zurich"
-url                      : "https://emanuelemazzotta.com/blog"
-baseurl                  : # "/blog"
+url                      : "https://blog.emanuelemazzotta.com"
+baseurl                  :
 repository               : "emazzotta/emazzotta.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
