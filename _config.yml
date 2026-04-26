@@ -79,7 +79,7 @@ analytics:
   provider               : "umami"
   umami:
     host                 : "https://analytics.mazzotta.me"
-    script               : "pulse.js"
+    script               : "script.js"
     website_id           : "c28363b1-1db3-4892-835e-726d7b6c2c41"
 
 
