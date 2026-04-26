@@ -80,8 +80,7 @@ analytics:
   umami:
     host                 : "https://analytics.mazzotta.me"
     script               : "pulse.js"
-    # TODO: paste data-website-id from Umami after first login
-    website_id           : "REPLACE_ME_BLOG_EMANUELEMAZZOTTA_COM"
+    website_id           : "c28363b1-1db3-4892-835e-726d7b6c2c41"
 
 
 # Site Author
