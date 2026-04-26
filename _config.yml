@@ -76,9 +76,12 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google"
-  google:
-    tracking_id          : "UA-28740874-1"
+  provider               : "umami"
+  umami:
+    host                 : "https://analytics.mazzotta.me"
+    script               : "pulse.js"
+    # TODO: paste data-website-id from Umami after first login
+    website_id           : "REPLACE_ME_BLOG_EMANUELEMAZZOTTA_COM"
 
 
 # Site Author
