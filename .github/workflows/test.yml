@@ -1,0 +1,31 @@
+name: "Test"
+
+on:
+  push:
+    branches: master
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: "Test"
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: tests
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.4.4
+
+      - name: Test the statistics switch and the legal page
+        run: |
+          bun install --frozen-lockfile
+          bun run check
+          bun test
